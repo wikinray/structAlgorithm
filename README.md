@@ -1,0 +1,2 @@
+# structAlgorithm
+struct and algorithm
